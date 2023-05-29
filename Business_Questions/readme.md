@@ -1,6 +1,8 @@
-# <p align="center" style="margin-top: 0px;"> Fresh Segments 🍊
-## <p align="center"> Customer Segment Analysis
 
+
+# <p align="center" style="margin-top: 0px;"> The Tiny Shop 🏚️
+## <p align="center"> Data Analysis
+	
 ## Question 1
 *Which product has the highest price? Only return a single row*
 ```sql
