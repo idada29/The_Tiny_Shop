@@ -22,12 +22,8 @@ This case study originally uses PostgreSQL however the solution was done using S
   
 ---
 ## Case Study Solutions
-- [Data Proprocessing]
-  (https://github.com/idada29/Case-Study-8---Fresh-Segments-/blob/main/Data%20Exploration%20and%20Cleansing.md)
-- [Ads Interest Analysis](https://github.com/idada29/Case-Study-8---Fresh-Segments-/blob/main/Ads%20Interest%20Analysis.md)
-- [Customer Segment Analysis](https://github.com/idada29/Case-Study-8---Fresh-Segments-/blob/main/Customer%20Segment%20Analysis.md)
-- [Index Analysis](https://github.com/idada29/Case-Study-8---Fresh-Segments-/blob/main/Index%20Analysis.md)
-   
+- [Data Proprocessing](https://github.com/idada29/The_Tiny_Shop/tree/main/Data_Processing)
+- [Business Question Analysis](https://github.com/idada29/The_Tiny_Shop/blob/main/Business_Questions/readme.md)   
 ---
 
 ## [Connect with me 🔵](https://www.linkedin.com/in/isaac-dada-24ba6ab3)
